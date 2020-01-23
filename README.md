@@ -2,10 +2,10 @@
 Personal information privacy policy
 
 In the version of 11.09.2017 (current)
-Privacy policy personal information (hereinafter - Policy) applies applies in respect of all information which, in accordance with the developer name "Bykadorov Artyom" in the face Bykadorova Artem Andreevich may obtain about the User during use them any of the Applications created by the developer "Bykadorov Artyom" and placed on the relevant platforms on the Internet. 
+The personal information privacy policy (hereinafter referred to as the policy) applies and applies to all information that, in accordance with the name of the developer "Bykadorov Artyom" in the person of Artem Bykadorov, may receive about the User during the use of any of the Applications created by the developer "Bykadorov Artyom" and placed on the appropriate platforms on the Internet. 
 
 1. Basic concept
-1.1. Website - a set of text, audio, and video files and images posted on the Internet at the following address: WasTheFable.github.io.
+1.1. Website - a set of text, audio, and video files and images posted on the Internet at the following address: https://axelgood777.github.io/WasTheFable.github.io/.
 1.2. The developer of "Bykadorov Artyom" is an individual Bykadorov Artem Andreevich, a citizen of the Russian Federation.
 1.3. Application - software designed to work on the Android and iOS platforms, freely distributed, the exclusive rights to which belong to Artem Bykadorov.
 1.4. User - an individual who uses the Application and all its functioning elements for the purposes for which such an Application is intended.
@@ -15,12 +15,12 @@ Privacy policy personal information (hereinafter - Policy) applies applies in re
 2.1. The purpose of this Policy is to ensure proper protection of information about Users, not excluding their personal data, from unauthorized access and unauthorized disclosure.
 2.2. Relations related to the collection, storage, distribution and protection of User information are governed by this Policy and the current Russian legislation.
 2.3. By downloading, reproducing, copying or otherwise using the Application, the User agrees to the terms of this Policy, which is recognized as a written consent to the processing of personal information of the User concluded between the User and the developer "Bykadorov Artyom". 
-2.4. If the User does not agree to the terms of this Policy, the use of the Application must be immediately terminated and the Application must be deleted From the user's mobile device memory.
-2.5. The current version of the Policy is a public document compiled by the developer "Bykadorov Artyom" and is available to an unlimited number of people on the Internet at: WasTheFable.github.io.
-2.6. The developer "Bykadorov Artyom" has the right to make changes to this Policy. When changes in Policies developed by "Bykadorov Artyom" shall notify Users by posting the amended Policy on the Website, the changes will come into force from the date of posting revisions on the Internet at: WasTheFable.github.io.
+2.4. If the User does not agree to the terms of this Policy, the use of the App must be immediately terminated and the App must be deleted From the user's mobile device memory.
+2.5. The current version of the Policy is a public document, compiled by the developer "Bykadorov Artyom" and is available to an unlimited number of people on the Internet at: https://axelgood777.github.io/WasTheFable.github.io/.
+2.6. The developer "Bykadorov Artyom" has the right to make changes to this Policy. When changes in Policies developed by "Bykadorov Artyom" shall notify Users by posting the amended Policy on the Website, the changes will come into force from the date of posting revisions on the Internet at: https://axelgood777.github.io/WasTheFable.github.io/.
 2.7. For the purposes of this Policy, Users ' Personal data includes: 
 - information provided by the User and the minimum required for using the Application, such as first name, last name, gender, mobile phone number and / or email address;
-- additional information that the developer "Bykadorov Artyom" may request from the User, in particular, a copy of the identity document or other document that contains the user's first name, surname, patronymic, photo, as well as other additional information that, at the discretion of the developer "Bykadorov Artyom" will be necessary and sufficient to identify such User and will prevent abuse and violations of the rights of third parties . 
+- additional information that the developer of "Bykadorov Artyom" may request from the User, in particular, a copy of the identity document or other document that contains the user's name, surname, patronymic, photo, as well as other additional information that, at the discretion of the developer of "Bykadorov Artyom", will be necessary and sufficient to identify such a User and will prevent abuse and violations of the rights of third parties . 
 - other information obtained as a result of User actions related directly to the use of the Application.
 2.8. The developer "Bykadorov Artyom" also processes other information about Users, which includes: 
 - standard data automatically received by the http server when accessing the Application and subsequent User actions (IP address of the host, type of the User's operating system, UDID of the device, content that the User gets access to, etc.);
@@ -44,7 +44,7 @@ Privacy policy personal information (hereinafter - Policy) applies applies in re
 - compliance of the purposes of personal data processing with the goals previously defined and declared when collecting personal data, as well as with the authority of the developer " Bykadorov Artyom";
 - compliance of the volume and nature of the processed personal data, methods of processing personal data with the purposes of processing personal data;
 - inadmissibility of combining databases containing personal data created for incompatible purposes.
-5.2. Within the framework of this Policy, personal data of Users is transferred to the developer "Bykadorov Artyom" with the consent of such User. The User's consent to transfer their personal data to the developer "Bykadorov Artyom" is provided in the form of specific actions when the User first loads the Application into the mobile device's memory.
+5.2. Within the framework of this Policy, personal data of Users is transferred to the developer "Bykadorov Artyom" with the consent of such User. The User's consent to transfer their personal data to the developer "Bykadorov Artyom" is provided in the form of specific actions when the User first downloads the Application to the mobile device's memory.
 5.3. Personal data of Users is stored exclusively on electronic media and processed using automated systems.
 5.4. Personal data of Users is not transferred to third parties, except in cases expressly provided for in this Policy and the legislation of the Russian Federation.
 
